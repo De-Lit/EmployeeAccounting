@@ -1,0 +1,9 @@
+﻿global using System;
+global using System.Windows;
+global using System.Windows.Input;
+global using System.Collections.Generic;
+global using System.ComponentModel;
+global using SQLite;
+global using System.Linq;
+global using Microsoft.EntityFrameworkCore;
+global using System.Runtime.CompilerServices;
