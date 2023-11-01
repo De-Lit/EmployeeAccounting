@@ -11,7 +11,7 @@
 - используемая ORM - *Entity framework*
 
 ## Установка
-Установка осуществляется с помощью платформы сборки проекта *MSBuild*
+Установка осуществляется с помощью платформы сборки проекта *MSBuild*. \
 В директории *EmployeeAccounting/src* выполнить команды:
 - `dotnet restore`
 - `dotnet msbuild -property:Configuration=Release`
